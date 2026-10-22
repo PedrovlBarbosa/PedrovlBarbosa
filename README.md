@@ -194,7 +194,7 @@ flowchart LR
 ## 🤝 Connect With Me / Onde Me Encontrar
 
 <p align="center">
-  <a href="https://linkedin.com/in/pedro-victor-lima-barbosa-390903126" target="_blank">
+  <a href="https://www.linkedin.com/in/pvlbarbosa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro_Barbosa-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
