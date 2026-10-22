@@ -15,7 +15,9 @@
   <a href="https://cin.ufpe.br" target="_blank">
     <img src="https://img.shields.io/badge/CIn-UFPE-002B49?style=for-the-badge&logo=googlescholar&logoColor=white" alt="CIn-UFPE" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PedrovlBarbosa&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/PedrovlBarbosa/" target="_blank">
+    <img alt="Profile Views" src="https://hits.sh/github.com/PedrovlBarbosa.svg?style=for-the-badge&label=PROFILE+VIEWS&color=6366f1&labelColor=0d1117" />
+  </a>
 </p>
 
 </div>
