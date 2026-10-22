@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=IT+Infrastructure+Analyst+%40+GSi+CIn-UFPE;M.Sc.+Candidate+in+AI+%26+AIOps+%40+CIn-UFPE;B.Sc.+in+Computer+Science+%40+CIn-UFPE;Architect+of+GersistAI+%7C+Local+LLMs+%26+Multi-Agents;Infrastructure+as+Code+%2B+Enterprise+Networks)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/pedro-victor-lima-barbosa-390903126" target="_blank">
+  <a href="https://www.linkedin.com/in/pvlbarbosa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/Pedro_limabarbosa" target="_blank">
