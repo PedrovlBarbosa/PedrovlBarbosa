@@ -3,7 +3,7 @@
 # Pedro Victor Lima Barbosa
 ### Computer Scientist | IT Infrastructure Analyst | AI & Data Science Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=IT+Infrastructure+Analyst+%40+GSi+CIn-UFPE;M.Sc.+Candidate+in+AI+%26+AIOps+%40+CIn-UFPE;B.Sc.+in+Computer+Science+%40+CIn-UFPE;Architect+of+GersistAI+%7C+Local+LLMs+%26+Multi-Agents;Infrastructure+as+Code+%2B+Enterprise+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=IT+Infrastructure+Analyst+%40+GSi+CIn-UFPE;M.Sc.+Student+in+AI+%26+AIOps+%40+CIn-UFPE;B.Sc.+in+Computer+Science+%40+CIn-UFPE;Architect+of+GersistAI+%7C+Local+LLMs+%26+Multi-Agents;Infrastructure+as+Code+%2B+Enterprise+Networks)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pvlbarbosa" target="_blank">
@@ -25,7 +25,7 @@
 ---
 
 > [!NOTE]
-> **Bridging Enterprise Systems & Cutting-Edge AI:** Graduated in Computer Science from **CIn - UFPE**, working as an **IT Infrastructure Analyst (GSi - CIn/UFPE)** and researching **AIOps, Local LLMs, and Multi-Agent Architectures (GersistAI)** as a Master's Candidate at CIn - UFPE.
+> **Bridging Enterprise Systems & Cutting-Edge AI:** Graduated in Computer Science from **CIn - UFPE**, working as an **IT Infrastructure Analyst (GSi - CIn/UFPE)** and researching **AIOps, Local LLMs, and Multi-Agent Architectures (GersistAI)** as a Master's Student at CIn - UFPE.
 
 ---
 
@@ -36,7 +36,7 @@
 <br>
 
 - 🎓 **Academic Background**: B.Sc. in Computer Science from **Centro de Informática (CIn) - UFPE** — top-tier computing institute in Latin America.
-- 🔬 **Current Research (M.Sc. Candidate @ CIn-UFPE)**: Focused on **Artificial Intelligence for IT Operations (AIOps)**, on-premises Local LLM inference, Hybrid Retrieval-Augmented Generation (RAG with Qdrant + BM25 + Cross-Encoders), Human-in-the-Loop (HITL) orchestration, and Direct Preference Optimization (DPO).
+- 🔬 **Current Research (M.Sc. Student @ CIn-UFPE)**: Focused on **Artificial Intelligence for IT Operations (AIOps)**, on-premises Local LLM inference, Hybrid Retrieval-Augmented Generation (RAG with Qdrant + BM25 + Cross-Encoders), Human-in-the-Loop (HITL) orchestration, and Direct Preference Optimization (DPO).
 - 💼 **Professional Role**: IT Infrastructure Analyst at **Gerência de Sistemas (GSi - CIn/UFPE)**, managing mission-critical enterprise environments, Active Directory, server clusters (Linux/Windows), high-availability networking, and automation.
 - 🏛️ **Academic Experience**: Former Undergraduate Researcher at **GPRT** (Networking and Telecommunications Research Group - CIn/UFPE) and 24 months of academic teaching assistantship (Monitoria).
 - 🔭 **Featured Project**: Designing and building **GersistAI** — an on-premises multi-agent platform combining autonomous agents (`Hermes AIOps`), ticket service desk copilots (`Request Tracker 5`), and local models aligned for zero-risk IT operations.
@@ -49,7 +49,7 @@
 <br>
 
 - 🎓 **Formação Acadêmica**: Bacharel em Ciência da Computação pelo **Centro de Informática (CIn) da UFPE**.
-- 🔬 **Pesquisa e Mestrado (CIn-UFPE)**: Candidato ao Mestrado com pesquisa em **AIOps (Inteligência Artificial para Operações de TI)**, inferência local de LLMs (*self-hosted* on-premises), RAG híbrido (Qdrant + BM25 + Cross-Encoder), alinhamento via DPO/SFT e validação humana obrigatória (*Human-in-the-Loop*).
+- 🔬 **Pesquisa e Mestrado (CIn-UFPE)**: Aluno de Mestrado com pesquisa em **AIOps (Inteligência Artificial para Operações de TI)**, inferência local de LLMs (*self-hosted* on-premises), RAG híbrido (Qdrant + BM25 + Cross-Encoder), alinhamento via DPO/SFT e validação humana obrigatória (*Human-in-the-Loop*).
 - 💼 **Atuação Profissional**: Analista de Infraestrutura em TI na **Gerência de Sistemas (GSi / GerSIST - CIn/UFPE)**, administrando servidores críticos Linux e Windows Server, Active Directory, automação de provisionamento e infraestrutura de redes.
 - 🏛️ **Trajetória Acadêmica**: Pesquisador de Iniciação Científica no **GPRT** (Grupo de Pesquisa em Redes e Telecomunicações) e 24 meses de monitoria acadêmica no CIn-UFPE.
 - 🔭 **Projeto em Destaque**: Autor da arquitetura do **GersistAI** — ecossistema multiagente seguro e privado para automação de ITSM/AIOps no CIn-UFPE.
